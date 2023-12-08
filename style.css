@@ -1,0 +1,14 @@
+.corpo{
+    background-color: aquamarine;
+    color: blueviolet;
+    text-align: center;
+    border: 30px;
+    border-style: outset;
+    border-color: magenta;
+}
+
+p{
+    color: cyan;
+    font-size: 20px;
+    
+}
