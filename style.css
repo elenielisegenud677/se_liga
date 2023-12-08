@@ -1,5 +1,5 @@
 .corpo{
-    background-color: aquamarine;
+    background-color: greenyellow;
     color: blueviolet;
     text-align: center;
     border: 10px;
@@ -8,7 +8,7 @@
 }
 
 p{
-    color: cyan;
+    color: darkgreen;
     font-size: 20px;
 }
 
