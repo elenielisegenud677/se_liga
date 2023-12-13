@@ -22,4 +22,8 @@ p{
     font-size: 30px;
 }
 
-#imagem-estudante{}
+#imagem-estudante{
+    border: dotted 10px blue;
+    width: 400px;
+    height: 400px;
+}
