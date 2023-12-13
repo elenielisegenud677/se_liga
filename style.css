@@ -23,7 +23,7 @@ p{
 }
 
 #imagem-estudante{
-    border:double 10px red;
+    border:groove 10px red;
     width: 600px;
     height: 400px;
 }
