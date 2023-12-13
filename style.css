@@ -23,7 +23,7 @@ p{
 }
 
 #imagem-estudante{
-    border:groove 10px red;
+    border:groove 10px rgb(0, 255, 213);
     width: 600px;
     height: 400px;
 }
